@@ -7,7 +7,7 @@
 
 ### Convert Model
 
-#### Inline code
+#### Package
 
 `$  pip install tensorflowjs[wizard]`
 
